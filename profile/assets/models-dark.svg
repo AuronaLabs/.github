@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="472" height="180" viewBox="0 0 472 180" role="img" aria-labelledby="title" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif">
+  <title id="title">模型服务 ↗</title>
+  <rect x="0.75" y="0.75" width="470.5" height="178.5" rx="20" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <text x="24" y="43" fill="#79b8ff" font-size="22" font-weight="600">模型服务 ↗</text>
+  <text x="24" y="82" fill="#e6edf3" font-size="17" font-weight="400">统一的模型接口，让应用接入更轻便</text>
+  <text x="24" y="109" fill="#e6edf3" font-size="17" font-weight="400">日常调用更顺手</text>
+  <text x="24" y="153" fill="#79b8ff" font-size="17" font-weight="600">接入模型 →</text>
+</svg>
